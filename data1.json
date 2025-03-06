@@ -1,0 +1,2588 @@
+[
+  {
+    "doc_id": "train-00001",
+    "content": "hoàn thành cao tốc quảng ngãi bình định trong năm nay",
+    "date": "09-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00002",
+    "content": "thủ tướng đôn đốc các bộ ngành địa phương khẩn trương rà soát tháo gỡ các dự án đầu tư có khó khăn tồn đọng kéo dài",
+    "date": "09-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00003",
+    "content": "thủ tướng kiểm tra việc xóa nhà tạm nhà dột nát tại quảng ngãi",
+    "date": "09-02-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00004",
+    "content": "thủ tướng phạm minh chính dâng hương tại khu lưu niệm cố thủ tướng phạm văn đồng",
+    "date": "09-02-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00005",
+    "content": "qua thống kê tuổi thọ bình quân của người hưởng hưu khoảng 78 tuổi cao hơn 45 tuổi so với tuổi thọ bình quân chung của cả nước",
+    "date": "09-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00006",
+    "content": "tạm giữ khẩn cấp tài xế điều khiển xe khách tân kim chi tự đâm vào dải phân cách",
+    "date": "09-02-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00007",
+    "content": "6 đồng chí trưởng phó phòng thuộc công an tỉnh hải dương có đơn đề nghị được nghỉ hưu trước hạn tuổi nhằm tạo điều kiện thuận lợi cho công tác tổ chức cán bộ",
+    "date": "09-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00008",
+    "content": "sau khi sắp xếp vtv sẽ giảm từ 27 đầu mối xuống còn 22 đơn vị",
+    "date": "09-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00009",
+    "content": "quảng nam là quê hương của nhiều anh hùng hào kiệt chí sĩ",
+    "date": "09-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00010",
+    "content": "thủ tướng tới thăm tặng quà chúc thọ mẹ việt nam anh hùng nguyễn thị thoại sinh năm 1929 hiện ở tại xã tam hiệp núi thành quảng nam có chồng và con trai là liệt sĩ",
+    "date": "09-02-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00011",
+    "content": "phải xây dựng sân bay chu lai cấp 4f cấp cao nhất",
+    "date": "09-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00012",
+    "content": "uae đầu tư hỗ trợ việt nam xây dựng học viện bóng đá trẻ cho câu lạc bộ công an hà nội",
+    "date": "08-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00013",
+    "content": "bạn toán vừa hỏi người tham gia giao thông có được dừng xe trên đường để mặc áo mưa không",
+    "date": "08-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00014",
+    "content": "phấn đấu chậm nhất 31122031 hoàn thành công tác đầu tư xây dựng nhà máy điện hạt nhân ninh thuận",
+    "date": "08-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00015",
+    "content": "kiểm tra việc chấp hành pháp luật vận tải đường bộ của nhà xe tân kim chi",
+    "date": "08-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00016",
+    "content": "thủ tướng đề nghị thaco nghiên cứu sản xuất tàu đường sắt tốc độ cao",
+    "date": "08-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00017",
+    "content": "thủ tướng phạm minh chính dâng hoa dâng hương tại nghĩa trang liệt sĩ tỉnh quảng nam và tượng đài mẹ việt nam anh hùng tp tam kỳ",
+    "date": "08-02-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00018",
+    "content": "đề nghị tổ chức tiêm bù tiêm vét cho những đối tượng chưa được tiêm hoặc tiêm chưa đủ các mũi vaccine phòng bệnh sởi",
+    "date": "08-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00019",
+    "content": "các phụ huynh lưu ý chở trẻ em trên 6 tuổi ngồi trước xe máy sẽ bị xử phạt từ 810 triệu đồng",
+    "date": "08-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00020",
+    "content": "bộ tài chính mới sẽ là bộ cốt lõi mạch máu của nền kinh tế",
+    "date": "07-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00021",
+    "content": "điểm mù khu vực tử thần",
+    "date": "07-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00022",
+    "content": "trước 132 bộ tài chính phải hoàn thiện dự thảo luật quản lý và đầu tư vốn nhà nước tại doanh nghiệp gửi chính phủ",
+    "date": "07-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00023",
+    "content": "dừng hoạt động temu phải hoàn tiền và bồi thường cho khách hàng việt nam đã đặt mua sản phẩm trên này mà chưa nhận được hàng",
+    "date": "07-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00024",
+    "content": "hà nội dự kiến công bố môn thi thứ ba kỳ tuyển sinh lớp 10 trong tháng 32025",
+    "date": "07-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00025",
+    "content": "nâng mức hưởng các chế độ chính sách cho dân quân tự vệ",
+    "date": "07-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00026",
+    "content": "chính phủ thái lan đã tạo điều kiện thuận lợi trong việc bảo tồn và phát triển các khu di tích bảo tàng chủ tịch hồ chí minh phố việt nam tại thái lan",
+    "date": "07-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00027",
+    "content": "thủ tướng phạm minh chính tiếp đại sứ pakistan tại việt nam kohdayar marri nhân dịp đại sứ bắt đầu nhiệm kỳ công tác",
+    "date": "07-02-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00028",
+    "content": "đợt rét đậm rét hại diện rộng ở bắc bộ bắc trung bộ lần này có thể kéo dài đến thứ hai 102",
+    "date": "07-02-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00029",
+    "content": "cảnh báo nguy cơ biến chứng nghiêm trọng do tiêm filler làm đẹp tại nhà",
+    "date": "07-02-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00030",
+    "content": "trồng 1100 cây thông caribe trên diện tích 1 ha tại khu vực hồ yên trung khu cửa ngăn thành phố uông bí tỉnh quảng ninh",
+    "date": "07-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00031",
+    "content": "tạm giam đối tượng dùng cồn y tế pha chế rượu khiến hai du khách nước ngoài tử vong",
+    "date": "07-02-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00032",
+    "content": "do hiểu nhầm hoặc hiểu sai về bệnh cúm và cảm cúm nên không ít người dân chủ quan trong phòng bệnh cúm nhất là người có bệnh lý nền người cao tuổi trẻ nhỏ và phụ nữ mang thai khiến bệnh có thể diễn tiến nặng",
+    "date": "07-02-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00033",
+    "content": "phòng ngừa các biến chứng nguy hiểm của cúm mùa bằng vaccine",
+    "date": "07-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00034",
+    "content": "những người từ 75 tuổi trở lên không có lương hưu ngoài được hưởng 500000 đồngtháng thì sẽ còn được ngân sách nhà nước mua thẻ bảo hiểm y tế để khám chữa bệnh",
+    "date": "07-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00035",
+    "content": "từ hải phòng đi thẳng đến châu âu châu mỹ và các cảng lớn trên thế giới cảng biển nước sâu hiện đại nhất việt nam đón chuyến tàu container đầu tiên",
+    "date": "07-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00036",
+    "content": "yêu cầu chủ tịch ubnd các tỉnh thành phố chỉ đạo bố trí nguồn ngân sách của địa phương và tăng cường huy động nguồn lực xã hội hóa xây dựng đủ trường lớp và bảo đảm chất lượng để mọi học sinh trong độ tuổi phổ cập giáo dục được đến trường",
+    "date": "07-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00037",
+    "content": "rất nguy hiểm đừng bất cẩn như trong clip mức phạt mới với lỗi mở cửa xe để cửa xe mở không bảo đảm an toàn gây tai nạn giao thông là 46 triệu đồng",
+    "date": "07-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00038",
+    "content": "nghiên cứu sắp xếp tinh gọn tổ chức bộ máy quản lý của evn tập đoàn điện lực việt nam",
+    "date": "07-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00039",
+    "content": "phát triển hơn nữa quan hệ hữu nghị và hợp tác truyền thống việt nam triều tiên",
+    "date": "07-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00040",
+    "content": "thời điểm không khí lạnh đợt này tác động mạnh nhất là ngày mai và ngày kia dự báo trong tháng 2 tháng chính đông các tỉnh miền bắc cũng như trung bộ sẽ còn chịu tác động thêm của nhiều đợt không khí lạnh nữa",
+    "date": "07-02-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00041",
+    "content": "sáng 6-2 tổng bí thư tô lâm và đoàn công tác trung ương dâng hoa tưởng nhớ chủ tịch hồ chí minh tại tỉnh uỷ hà giang",
+    "date": "06-02-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00042",
+    "content": "kỳ thi vào lớp 10 năm nay tại tphcm sẽ diễn ra vào ngày 676",
+    "date": "06-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00043",
+    "content": "chủ tịch nước lương cường chủ trì lễ dâng hương khai xuân tại hoàng thành thăng long",
+    "date": "06-02-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00044",
+    "content": "việt nam sẽ tiếp tục phát triển mạnh mẽ trước hết là trong năm 2025 và có thể tăng gấp đôi quy mô gdp trong những năm tới trên đường trở thành nước có thu nhập cao mang lại cuộc sống ngày càng phồn vinh hạnh phúc cho nhân dân",
+    "date": "06-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00045",
+    "content": "trung đoàn 929 tổ chức thành công ban bay đầu xuân",
+    "date": "06-02-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00046",
+    "content": "cần phải thực hiện niêm yết và bán theo giá niêm yết",
+    "date": "06-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00047",
+    "content": "bóng bay đôrêmon bị vướng vào dây điện như thế này rất nguy hiểm",
+    "date": "06-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00048",
+    "content": "cần tuyển công dân vào công tác tại bộ công an",
+    "date": "06-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00049",
+    "content": "trên đời không có cái gọi là việc nhẹ lương cao đâu mọi người ơi đừng tin những tên hr đó",
+    "date": "06-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00050",
+    "content": "áp dụng thu phí 0 đồng với dịch vụ công trực tuyến",
+    "date": "06-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00051",
+    "content": "công bố đề thi tham khảo kỳ thi đánh giá tuyển sinh công an nhân dân năm 2025",
+    "date": "06-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00052",
+    "content": "giá xăng ron95iii xuống dưới 21000 đồng mỗi lít",
+    "date": "06-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00053",
+    "content": "hội nghị giữa hai ban thường vụ đảng ủy chính phủ và quốc hội chuẩn bị kỳ họp bất thường lần thứ 9",
+    "date": "06-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00054",
+    "content": "bảo đảm nguyên tắc rõ việc rõ người rõ sản phẩm",
+    "date": "06-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00055",
+    "content": "15 chiến sĩ công an thủ đô hiến máu khẩn cấp cứu bệnh nhi",
+    "date": "06-02-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00056",
+    "content": "chuẩn bị tốt nhất cho kỳ họp quốc hội bất thường sắp tới",
+    "date": "06-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00057",
+    "content": "các địa phương và các ngành lĩnh vực chú ý",
+    "date": "05-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00058",
+    "content": "thông tin chính thức của tỉnh quảng nam về 43 trẻ sốt phát ban 3 trường hợp tử vong trong dịp tết",
+    "date": "05-02-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00059",
+    "content": "bộ quốc phòng sáp nhập tổng cục hậu cần tổng cục kỹ thuật và tổ chức lại thành tổng cục hậu cần kỹ thuật",
+    "date": "05-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00060",
+    "content": "không gian thành phố thủ đức sẽ được chia thành 9 khu vực phát triển",
+    "date": "05-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00061",
+    "content": "tổng bí thư tô lâm dâng hương tại nghĩa trang liệt sĩ quốc gia vị xuyên hà giang",
+    "date": "05-02-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00062",
+    "content": "đủ nguồn kinh phí để chi trả hỗ trợ cán bộ khi tinh giản sắp xếp bộ máy",
+    "date": "05-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00063",
+    "content": "giải cứu kịp thời 7 người mắc kẹt trong vụ cháy xảy ra tại cầu giấy hà nội",
+    "date": "05-02-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00064",
+    "content": "mỗi cây xanh được trồng chính là một hành động yêu thương gửi gắm đến thiên nhiên một món quà vô giá dành cho thế hệ mai sau",
+    "date": "05-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00065",
+    "content": "bắt tạm giam cán bộ sở y tế hà nội vì hành vi môi giới hối lộ nhận hối lộ",
+    "date": "05-02-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00066",
+    "content": "gần 9 triệu đồngtháng là mức bình quân tiền lương của người lao động năm 2024",
+    "date": "05-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00067",
+    "content": "phạt ngay 19 triệu đồng với tài xế đi ngược chiều trên cao tốc chị này trình bày là do không biết đường và đi theo google map",
+    "date": "05-02-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00068",
+    "content": "người nhận bhxh một lần giảm số lượng lớn",
+    "date": "05-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00069",
+    "content": "thủ tướng chủ trì hội nghị dấu mốc lịch sử của đảng bộ chính phủ",
+    "date": "05-02-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00070",
+    "content": "thông tin về đợt bùng phát dịch cúm mùa tại nhật bản",
+    "date": "05-02-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00071",
+    "content": "nhân dịp đầu xuân năm mới ất tỵ 2025 sáng 52 tổng bí thư tô lâm cùng đoàn công tác trung ương đã đến dâng hương tưởng niệm các vua hùng tại khu di tích lịch sử quốc gia đặc biệt đền hùng thành phố việt trì tỉnh phú thọ",
+    "date": "05-02-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00072",
+    "content": "hằng tháng các bộ trưởng phải báo cáo thủ tướng chính phủ trước ngày 30 về kết quả tháo gỡ các vướng mắc thể chế và các vướng mắc cần tiếp tục tháo gỡ trong lĩnh vực quản lý",
+    "date": "05-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00073",
+    "content": "xác minh được 10 đối tượng liên quan vụ dàn cảnh cướp giật tại chùa kim tiên tịnh biên an giang",
+    "date": "05-02-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00074",
+    "content": "thủ tướng đưa chi thường xuyên xuống dưới 60 tổng chi ngân sách",
+    "date": "05-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00075",
+    "content": "thủ tướng chuẩn bị cho khả năng chiến tranh thương mại thế giới trong năm nay",
+    "date": "05-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00076",
+    "content": "mừng kỷ niệm quan hệ việt nam ba lan",
+    "date": "05-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00077",
+    "content": "học sinh việt nam giành huy chương vàng olympic dự án hóa học quốc tế 2025",
+    "date": "05-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00078",
+    "content": "không khí lạnh tăng cường từ chiều ngày kia 72 miền bắc chuyển rét đậm rét hại",
+    "date": "05-02-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00079",
+    "content": "hoan nghênh đồng chí bí thư thứ nhất đảng cộng sản cuba chủ tịch nước cộng hòa cuba miguel diazcanel sớm thăm lại việt nam trong năm nay",
+    "date": "05-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00080",
+    "content": "không đốt vàng mã tràn lan gây tốn kém lãng phí",
+    "date": "05-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00081",
+    "content": "đề nghị truy tố cựu thứ trưởng bộ tnmt nguyễn linh ngọc",
+    "date": "04-02-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00082",
+    "content": "thời gian qua công tác gỡ vướng pháp lý tại các dự án trọng điểm của novaland đã đạt nhiều cú hích quan trọng",
+    "date": "04-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00083",
+    "content": "tạo cơ chế khuyến khích các tác giả trong sáng tạo tác phẩm văn học đỉnh cao",
+    "date": "04-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00084",
+    "content": "không phạt nguội đối với công dân phạm anh vượng tài xế ô tô vượt đèn đỏ đưa người bị tai nạn giao thông đi cấp cứu",
+    "date": "04-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00085",
+    "content": "bộ mới sau hợp nhất bộ tnmt và bộ nnptnt tên là bộ nông nghiệp và môi trường",
+    "date": "04-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00086",
+    "content": "mô hình zalo kết nối bình yên giúp cháu bé bị lạc tìm được người thân chỉ trong 10 phút",
+    "date": "04-02-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00087",
+    "content": "bộ mới sau khi hợp nhất bộ xây dựng với bộ giao thông vận tải tên là bộ xây dựng",
+    "date": "04-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00088",
+    "content": "năm nay cảnh sát giao thông toàn quốc tập trung xử lý 6 nhóm hành vi",
+    "date": "04-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00089",
+    "content": "tiếp tục sắp xếp tổ chức bộ máy bộ công an và công an địa phương tinh gọn là nhiệm vụ chính trị đặc biệt quan trọng",
+    "date": "04-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00090",
+    "content": "tôi sẽ không bao giờ quên lòng hiếu khách và thân thiện đặc biệt của các bạn du khách người ý và câu chuyện đón tết cùng với lực lượng công an xã",
+    "date": "04-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00091",
+    "content": "evn làm chủ đầu tư nhà máy điện hạt nhân ninh thuận 1petrovietnam làm chủ đầu tư nhà máy điện hạt nhân ninh thuận 2",
+    "date": "04-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00092",
+    "content": "sống đẹp những tấm lòng nhân ái đã viết nên câu chuyện đẹp giữa đời thường",
+    "date": "04-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00093",
+    "content": "không tổ chức du xuân chúc tết trong giờ làm việc làm ảnh hưởng đến thời gian tiến độ giải quyết công việc",
+    "date": "04-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00094",
+    "content": "xây dựng nhà máy điện hạt nhân là vấn đề quốc gia đại sự",
+    "date": "04-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00095",
+    "content": "lãnh đạo các bộ cơ quan địa phương không tham dự lễ hội nếu không được cấp có thẩm quyền phân công",
+    "date": "04-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00096",
+    "content": "cháy nổ trong dịp tết nguyên đán ất tỵ giảm mạnh về số vụ và thiệt hại",
+    "date": "03-02-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00097",
+    "content": "đầu tư xây dựng công trình khẩn cấp bổ cập nước từ sông hồng vào sông tô lịch",
+    "date": "03-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00098",
+    "content": "sân chơi bổ ích mùng 6 tết 32 trại tạm giam công an tỉnh hà nam tổ chức hội thi các trò chơi dân gian trong phạm nhân",
+    "date": "03-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00099",
+    "content": "tphcm kết thúc hoạt động giải thể 21 tổ chức đảng",
+    "date": "03-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00100",
+    "content": "tối nay một trận động đất có độ lớn 26 độ đã xảy ra tại chương mỹ hà nội",
+    "date": "03-02-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00101",
+    "content": "bộ chính trị chỉ định đồng chí phạm minh chính giữ chức bí thư đảng ủy chính phủ",
+    "date": "03-02-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00102",
+    "content": "từ 13 giải quyết 70 thủ tục hành chính trong khám chữa bệnh tại địa phương",
+    "date": "03-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00103",
+    "content": "lãnh đạo đảng nhà nước dự chương trình gặp mặt mừng đảng quang vinh mừng xuân ất tỵ 2025",
+    "date": "03-02-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00104",
+    "content": "đề xuất đưa vaccine phòng bệnh do phế cầu vào chương trình tiêm chủng mở rộng",
+    "date": "03-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00105",
+    "content": "tổng bí thư tô lâm trao quyết định của bộ chính trị cho 4 đảng bộ trực thuộc trung ương và 3 cơ quan đảng ở trung ương",
+    "date": "03-02-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00106",
+    "content": "số vụ tai nạn giao thông số người tử vong số người bị thương do tai nạn giao thông trong kỳ nghỉ tết dài 9 ngày đều giảm",
+    "date": "03-02-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00107",
+    "content": "nhân dịp xuân mới ất tỵ chiều nay phó thủ tướng thường trực nguyễn hòa bình tới thăm và chúc tết cán bộ chiến sĩ cục cảnh sát phòng chống tội phạm về môi trường",
+    "date": "03-02-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00108",
+    "content": "văn phòng chính phủ trong kỳ nghỉ tết đã thực hiện tốt chế độ ứng trực vận hành công việc thông suốt thực hiện đầy đủ chế độ báo cáo tham mưu xử lý công việc cho chính phủ thủ tướng chính phủ phó thủ tướng chính phủ",
+    "date": "03-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00109",
+    "content": "hành vi nguy hiểm không thể tiện đường như thế này có thể gây hại cho người khác và chính gia đình của mình",
+    "date": "03-02-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00110",
+    "content": "sáng nay ngày đầu tiên trở lại làm việc sau kỳ nghỉ tết nguyên đán ất tỵ 2025 thủ tướng phạm minh chính đã tới thăm chúc mừng năm mới giao nhiệm vụ cho ngân hàng nhà nước và ngành ngân hàng trong năm 2025 và thời gian tới",
+    "date": "03-02-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00111",
+    "content": "các ngân hàng nhất là các ngân hàng thương mại cổ phần cần phát huy hơn nữa tình dân tộc nghĩa đồng bào trách nhiệm xã hội chia sẻ nhiều hơn với với người dân doanh nghiệp đóng góp nhiều hơn cho đất nước",
+    "date": "03-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00112",
+    "content": "công an nhân dân gương mẫu đi đầu thực hiện các chủ trương của đảng góp phần cùng cả nước vững bước vào kỷ nguyên mới",
+    "date": "03-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00113",
+    "content": "9 ngày nghỉ tết bắt 342 vụ 1836 đối tượng đánh bạc 34 đối tượng truy nã",
+    "date": "02-02-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00114",
+    "content": "thủ tướng động viên bộ đội biên phòng và các lực lượng tại biên giới",
+    "date": "02-02-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00115",
+    "content": "dùng xe đặc chủng đưa cháu bé 3 tuổi đang sốt cao co giật đi cấp cứu kịp thời",
+    "date": "02-02-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00116",
+    "content": "trong năm nay thông toàn tuyến cao tốc từ cao bằng tới cà mau",
+    "date": "02-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00117",
+    "content": "kịp thời cứu được 6 người bị mắc kẹt trong đám cháy rạng sáng mùng 4 tết",
+    "date": "02-02-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00118",
+    "content": "các nền tảng số mạng xã hội có thể được sử dụng để tuyên truyền chủ trương đường lối của đảng đến đông đảo cán bộ đảng viên và nhân dân một cách nhanh chóng sinh động hiệu quả",
+    "date": "02-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00119",
+    "content": "lễ hội kỷ niệm 236 năm chiến thắng ngọc hồi đống đa",
+    "date": "02-02-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00120",
+    "content": "trong 9 ngày nghỉ tết nguyên đán ất tỵ 2025 toàn quốc xảy ra 445 vụ tai nạn giao thông làm thiệt mạng 209 người bị thương 373 người",
+    "date": "02-02-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00121",
+    "content": "thủ tướng phạm minh chính dâng hương tại nhà tưởng niệm chủ tịch hồ chí minh với chiến dịch biên giới",
+    "date": "02-02-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00122",
+    "content": "không có sổ hồng nhưng muốn đăng ký nhập khẩu thương tru cho con thì cần những thủ tục gì",
+    "date": "02-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00123",
+    "content": "thủ tướng thị sát dự án cao tốc đồng đăng lạng sơn trà lĩnh cao bằng",
+    "date": "02-02-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00124",
+    "content": "không khí lạnh tăng cường sẽ gây rét đậm rét hại",
+    "date": "02-02-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00125",
+    "content": "rạng rỡ việt nam",
+    "date": "02-02-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00126",
+    "content": "chiều mùng 3 tết 311 trên tuyến ql1a đường đông có dấu hiệu ùn tắc",
+    "date": "02-02-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00127",
+    "content": "trong thời hạn tối đa 60 ngày kể từ khi người chưa thành niên được đăng ký khai sinh thì cha hoặc mẹ hoặc chủ hộ hoặc người giám hộ có trách nhiệm thực hiện đăng ký thường trú đăng ký tạm trú đăng ký tạm trú khai báo thông tin về cư trú cho người chưa thành niên",
+    "date": "02-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00128",
+    "content": "giữ người trong trường hợp khẩn cấp với hai người hành hung nam tài xế ở bến phà cồn nhất nam định",
+    "date": "02-02-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00129",
+    "content": "kế tiếp sau kỳ nghỉ tết nguyên đán ất tỵ sẽ còn có kỳ nghỉ lễ giỗ tổ hùng vương dịp 304 152025 lễ quốc khánh 29",
+    "date": "02-02-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00130",
+    "content": "lãnh đạo các chính đảng chúc mừng nhân kỷ niệm 95 năm ngày thành lập đảng cộng sản việt nam",
+    "date": "01-02-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00131",
+    "content": "mùng 4 tết bắt 51 vụ 356 đối tượng đánh bạc 1 đối tượng truy nã",
+    "date": "01-02-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00132",
+    "content": "hướng dẫn tham gia giao thông tại nút giao khuất duy tiến nguyễn trãi nguyễn xiển hà nội",
+    "date": "01-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00133",
+    "content": "xây dựng tuyến tàu điện ngầm từ sân bay tân sơn nhất tới sân bay long thành",
+    "date": "01-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00134",
+    "content": "thủ tướng phạm minh chính dâng hương cố thủ tướng phan văn khải",
+    "date": "01-02-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00135",
+    "content": "với bộ công thương hợp nhất cục điện lực và năng lượng tái tạo và cục điều tiết điện lực thành cục điện lực",
+    "date": "01-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00136",
+    "content": "nhà ga t3 tân sơn nhất vượt tiến độ khai thác đúng dịp 3042025",
+    "date": "01-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00137",
+    "content": "phấn đấu hoàn thành công trình cầu nhơn trạch đồng nai vào dịp 3042025",
+    "date": "01-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00138",
+    "content": "thủ tướng kiểm tra các cầu và nút giao lớn nhất đường vành đai 3 tphcm",
+    "date": "01-02-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00139",
+    "content": "nghiên cứu triển khai tuyến tàu điện kết nối từ bến thành suối tiên tphcm tới bình dương",
+    "date": "01-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00140",
+    "content": "thủ tướng tặng quà mừng tuổi người lao động cán bộ đang thi công trên công trường sân bay long thành",
+    "date": "01-02-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00141",
+    "content": "giá xăng dầu đều giảm",
+    "date": "01-02-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00142",
+    "content": "mùng 3 tết cán bộ công an huyện hiến máu cứu sản phụ qua khỏi cơn nguy kịch",
+    "date": "01-02-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00143",
+    "content": "sáng nay mùng 4 tết thủ tướng phạm minh chính phát lệnh khởi công cao tốc đầu tiên nối tphcm với bình dương bình phước tây nguyên",
+    "date": "01-02-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00144",
+    "content": "người dân và du khách nô nức vui xuân chơi tết",
+    "date": "31-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00145",
+    "content": "việc đầu tư vào các ứng dụng sàn giao dịch tiền ảo tiềm ẩn nhiều nguy cơ cho nhà đầu tư do tiền ảo chưa được pháp luật việt nam công nhận",
+    "date": "31-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00146",
+    "content": "yêu cầu bộ gtvt chỉ đạo các đơn vị có liên quan rà soát tăng cường tổ chức giao thông hợp lý trên quốc lộ 21 và các tuyến quốc lộ có điều kiện tương tự",
+    "date": "31-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00147",
+    "content": "điện thăm hỏi vụ tai nạn máy bay xảy ra tại hoa kỳ",
+    "date": "31-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00148",
+    "content": "dự kiến đến 2030 đất xây dựng toàn đô thị thành phố thủ đức khoảng 16200 16500 ha trung bình khoảng 89 90 m2người",
+    "date": "31-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00149",
+    "content": "lễ phát động tết trồng cây đời đời nhớ ơn bác hồ xuân ất tỵ 2025",
+    "date": "31-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00150",
+    "content": "nhân dịp kỷ niệm 75 năm ngày thiết lập quan hệ ngoại giao giữa nước cộng hòa xã hội chủ nghĩa việt nam và nước cộng hòa dân chủ nhân dân triều tiên 3111950 3112025 tổng bí thư tô lâm và chủ tịch nước lương cường đã trao đổi điện mừng với tổng bí thư chủ tịch quốc vụ triều tiên kim jong un",
+    "date": "31-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00151",
+    "content": "khánh thành tuyến đường lê duẩn và cầu sông vân thành phố hoa lư",
+    "date": "31-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00152",
+    "content": "trong không khí mừng đảng mừng xuân hướng tới kỷ niệm 95 năm ngày thành lập đảng cộng sản việt nam 321930 322025 sáng 311 mùng 3 tết ất tỵ tại khu di tích quốc gia đặc biệt cố đô hoa lư tỉnh ninh bình tổng bí thư tô lâm đã dâng hương tại đền thờ vua đinh tiên hoàng và đền thờ vua lê đại hành tưởng nhớ các bậc tiên đế có công với đất nước",
+    "date": "31-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00153",
+    "content": "pháp sẽ triển khai các dự án hỗ trợ ngành công nghiệp văn hoá việt nam với số tiền 544000 euro",
+    "date": "31-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00154",
+    "content": "sắc xuân quê hương trên miền biên viễn",
+    "date": "30-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00155",
+    "content": "được tuýt còi dừng xe kiểm tra nồng độ cồn ngay trong những ngày đầu năm nhưng nhiều tài xế lại cảm thấy vui và gửi lời chúc mừng năm mới đến tổ csgt họ cho rằng việc kiểm tra nồng độ cồn xuyên tết của csgt nhằm đảm bảo an toàn bình yên cho người tham gia giao thông",
+    "date": "30-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00156",
+    "content": "vui xuân mới không quên nhiệm vụ",
+    "date": "30-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00157",
+    "content": "quá nguy hiểm lập biên bản nữ tài xế đi ngược chiều trên cao tốc hà nội hải phòng",
+    "date": "30-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00158",
+    "content": "khẩn trương điều tra xử lý vụ tai nạn giao thông đặc biệt nghiêm trọng làm 9 người thương vong tại nam định",
+    "date": "30-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00159",
+    "content": "vượt sóng vượt gió",
+    "date": "30-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00160",
+    "content": "who hết sức vui mừng khi việt nam đã cấm thuốc lá điện tử thuốc lá nung nóng",
+    "date": "30-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00161",
+    "content": "lữ đoàn voi chiến sắt miệt mài trên thao trường ngày xuân",
+    "date": "30-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00162",
+    "content": "đậm chất hà nội",
+    "date": "30-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00163",
+    "content": "sáp nhập giải thể các tổ chức khoa học và công nghệ hoạt động không hiệu quả",
+    "date": "30-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00164",
+    "content": "các mốc tiến độ thực hiện dự án đường sắt tốc độ cao bắcnam",
+    "date": "29-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00165",
+    "content": "thức cho dân ngủ ngon gác cho dân vui chơi",
+    "date": "29-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00166",
+    "content": "tổng thống nga vladimir putin đã trao đổi thư mừng với tổng bí thư tô lâm và chủ tịch nước lương cường nhân dịp kỷ niệm 75 năm ngày thiết lập quan hệ ngoại giao giữa việt nam và liên bang nga",
+    "date": "29-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00167",
+    "content": "kịp thời cứu 3 nạn nhân thoát khỏi giặc lửa trong ngày đầu năm mới",
+    "date": "29-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00168",
+    "content": "có cơ chế chính sách hấp dẫn về tín dụng học bổng và học phí để thu hút học sinh sinh viên giỏi theo học toán học vật lý sinh học hoá học kỹ thuật và công nghệ then chốt",
+    "date": "29-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00169",
+    "content": "chủ tịch nước lương cường dâng hương tưởng niệm chủ tịch hồ chí minh",
+    "date": "29-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00170",
+    "content": "chào ất tỵ 2025 năm của trí tuệ và đổi mới",
+    "date": "29-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00171",
+    "content": "sẽ có cơ chế đặc biệt về nhập quốc tịch sở hữu nhà đất thu nhập môi trường làm việc nhằm thu hút trọng dụng giữ chân",
+    "date": "29-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00172",
+    "content": "màn biểu diễn drone kéo dài 15 phút trên bầu trời tphcm khiến nhiều người dân thích thú",
+    "date": "29-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00173",
+    "content": "cảnh báo lừa đảo tiền lì xì online qua chiêu trò khuyến mãi dịp tết nguyên đán",
+    "date": "29-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00174",
+    "content": "pháo hoa rực sáng ở kỳ đài tp huế",
+    "date": "29-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00175",
+    "content": "việt nam thành công lội ngược dòng vượt siêu bão yagi cơn bão mạnh nhất châu á ghi nhận trong 2024 đồng thời là cơn bão mạnh thứ hai trên thế giới",
+    "date": "29-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00176",
+    "content": "chủ tịch nước lương cường chúc tết xuân ất tỵ 2025",
+    "date": "29-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00177",
+    "content": "chúc mừng xuân mới ất tỵ 2025",
+    "date": "29-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00178",
+    "content": "hội an lung linh hoa đăng mừng xuân mới ất tỵ",
+    "date": "28-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00179",
+    "content": "non sông gấm hoa vui xuân thái hòa đường hoa nguyễn huệ tết ất tỵ 2025 tại tphcm",
+    "date": "28-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00180",
+    "content": "xây dựng một số trường trung tâm đào tạo tiên tiến chuyên sâu về trí tuệ nhân tạo",
+    "date": "28-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00181",
+    "content": "phục vụ bà con tại tphcm xem pháo hoa về nhà không lo kẹt xe",
+    "date": "28-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00182",
+    "content": "bà con tuyệt đối không rời khỏi địa phương hoặc đi xa theo lời mời từ người quen biết qua mạng xã hội khi không rõ lai lịch",
+    "date": "28-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00183",
+    "content": "tiến tới hạnh phúc ngày mới ở làng nủ",
+    "date": "28-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00184",
+    "content": "lần đầu tiên việt nam được bổ nhiệm đồng điều phối chuẩn bị một hội nghị lớn của liên hợp quốc",
+    "date": "28-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00185",
+    "content": "nơi gói ghém cả mùa xuân nơi hương vị tết cổ truyền lan tỏa khắp đất trời",
+    "date": "28-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00186",
+    "content": "khuyến cáo người dân không mua sim thuê bao đã kích hoạt sẵnkhi mua và sử dụng những sim loại này người dùng sẽ không được pháp luật bảo vệ",
+    "date": "28-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00187",
+    "content": "nhân dịp ngài a lukashenko được bầu lại làm tổng thống cộng hòa belarus ngày 2712025 chủ tịch nước lương cường đã gửi điện chúc mừng",
+    "date": "28-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00188",
+    "content": "triển khai thực hiện thí điểm thị trường cácbon trên toàn quốc từ năm nay đến hết 2028",
+    "date": "28-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00189",
+    "content": "thủ tướng phạm minh chính dâng hương cố tổng bí thư nguyễn phú trọng",
+    "date": "27-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00190",
+    "content": "23 bệnh nhi trong vụ ngộ độc do uống nhầm thuốc diệt chuột được ra viện còn 11 bệnh nhi đang tiếp tục được theo dõi và đánh giá lại để xem xét sớm ra viện",
+    "date": "27-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00191",
+    "content": "vận động nhân dân thay đổi các tập quán ăn uống lạc hậu trong các ngày tết lễ hội không ăn tiết canh và thức ăn chưa được nấu chín",
+    "date": "27-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00192",
+    "content": "vui thôi đừng vui quá thực hư hình ảnh người đàn ông giao xe ôtô cho con trai 12 tuổi cầm lái",
+    "date": "27-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00193",
+    "content": "khi nhận được tin nhắn hoặc cuộc gọi yêu cầu vay mượn tiền phải luôn bình tĩnh xác minh nhất là các cuộc gọi có nội dung cần tiền gấp chuyển tiền ngay",
+    "date": "27-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00194",
+    "content": "thủ tướng phạm minh chính dâng hương cố thủ tướng phạm văn đồng",
+    "date": "27-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00195",
+    "content": "quy hoạch lại xây dựng bệnh viện phổi trung ương hiện đại",
+    "date": "27-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00196",
+    "content": "thủ tướng mừng tuổi khách đi tàu kiểm tra việc phục vụ tết của ngành đường sắt",
+    "date": "27-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00197",
+    "content": "thủ tướng chúc tết và kiểm tra công tác ứng trực tại lữ đoàn k3 tổng cục ii bộ quốc phòng",
+    "date": "27-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00198",
+    "content": "năm 2024 thu nhập bình quân của người lao động hưởng lương đạt khoảng 85 triệu đồngtháng tăng 19 triệu đồng so với 2020",
+    "date": "27-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00199",
+    "content": "thủ tướng chúc tết và kiểm tra công tác ứng trực tại cục cảnh sát quản lý hành chính về trật tự xã hội cục an ninh điều tra bộ công an",
+    "date": "27-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00200",
+    "content": "những ngày giáp tết tại làng hoa giấy phú sơn huyện chợ lách tỉnh bến tre",
+    "date": "27-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00201",
+    "content": "cảnh báo lừa đảo chiếm đoạt tài sản bằng công nghệ deepfake",
+    "date": "27-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00202",
+    "content": "những ngày tới không khí lạnh có thể tiếp tục tăng cường ảnh hưởng đến các tỉnh bắc bộ bắc trung bộ và một số nơi ở trung trung bộ bắc bộ và bắc trung bộ sẽ trời rét đậm vùng núi bắc bộ rét hại trung trung bộ trời rét",
+    "date": "27-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00203",
+    "content": "không được dùng bếp than để sưởi ấm trong phòng kín để tránh xảy ra sự cố đáng tiếc gây thiệt hại về người",
+    "date": "27-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00204",
+    "content": "vạn dặm bình an",
+    "date": "27-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00205",
+    "content": "miền bắc rét đậm vùng núi cao có nơi dưới 3 độ c",
+    "date": "27-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00206",
+    "content": "động đất độ lớn 38 tại nam trà my quảng nam",
+    "date": "27-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00207",
+    "content": "bổ sung cảng hàng không gia bình bắc ninh vào quy hoạch cảng hàng không sân bay toàn quốc",
+    "date": "26-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00208",
+    "content": "triệt phá cơ sở sản xuất số lượng lớn cà phê giả khởi tố vụ án khởi tố bị can",
+    "date": "26-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00209",
+    "content": "ngày thứ 2 nghỉ tết nguyên đán đã xử lý 2106 trường hợp vi phạm nồng độ cồn",
+    "date": "26-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00210",
+    "content": "nhân dịp ông micheál martin được bầu giữ chức thủ tướng và bà verona murphy được bầu giữ chức chủ tịch hạ viện ireland ngày 2612025 thủ tướng chính phủ phạm minh chính và chủ tịch quốc hội trần thanh mẫn đã gửi điện chúc mừng",
+    "date": "26-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00211",
+    "content": "nên huy động bà con kiều bào chừng 5560 tuổi đã thành đạt có tri thức và kinh nghiệm có mối quan hệ tốt với các cá nhân hay doanh nghiệp ưu tú ở nước ngoài trở về cống hiến cho đất nước",
+    "date": "26-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00212",
+    "content": "vừa triệt phá thêm một đường dây lừa đảo quốc tế với tổng số tiền bị chiếm đoạt khoảng 1800 tỷ đồng cầm đầu đường dây là zhangmao 43 tuổi quốc tịch người trung quốc",
+    "date": "26-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00213",
+    "content": "người dân là cá nhân thì không được phép kinh doanh pháo hoa của bộ quốc phòngchỉ có tổ chức doanh nghiệp thuộc bộ quốc phòng mới được kinh doanh pháo hoa đồng thời phải đáp ứng đủ các điều kiện theo quy định",
+    "date": "26-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00214",
+    "content": "cách thức lừa đảo chiếm đoạt tài sản của băng nhóm vừa bị bắt giữ bà con cần nâng cao cảnh giác",
+    "date": "26-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00215",
+    "content": "hiện các cửa hàng tiện ích siêu thị mở rất sớm sau dịp nghỉ tết vì vậy người dân không nên tích trữ nhiều thực phẩm mua ồ ạt và không có nguồn gốc",
+    "date": "26-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00216",
+    "content": "điện mừng lần thứ 237 quốc khánh australia",
+    "date": "26-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00217",
+    "content": "cầu phao phong châu sẽ hoạt động xuyên đêm giao thừa tết ất tỵ 2025 để phục vụ nhân dân",
+    "date": "26-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00218",
+    "content": "nghiên cứu đầu tư đường cao tốc từ thanh hoá kết nối với hoà bình sơn la",
+    "date": "26-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00219",
+    "content": "thủ tướng chỉ đạo chăm lo hỗ trợ người lao động làm việc trên công trường trong dịp tết",
+    "date": "26-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00220",
+    "content": "xuất cấp 218025 tấn gạo cho tỉnh tuyên quang để hỗ trợ nhân dân dịp tết nguyên đán ất tỵ",
+    "date": "25-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00221",
+    "content": "rộn ràng đón tết ở các cơ sở cai nghiện ma túy trên cả nước",
+    "date": "25-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00222",
+    "content": "tân đại sứ pakistan bày tỏ vinh dự nhận nhiệm vụ tại nước ta",
+    "date": "25-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00223",
+    "content": "linh vât răn tại thành phố huê trực thuộc trung ương va công viên dọc bờ sông hương qua ngay va đêm",
+    "date": "25-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00224",
+    "content": "hỗ trợ 255258 tấn gạo cho tỉnh sóc trăng dịp tết nguyên đán ất tỵ",
+    "date": "25-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00225",
+    "content": "hôm nay trước thềm tết cổ truyền ất tỵ tại trụ sở chính phủ thủ tướng chính phủ phạm minh chính đã tiếp đồng chí hà vĩ đại sứ đặc mệnh toàn quyền nước cộng hòa nhân dân trung hoa tại việt nam",
+    "date": "25-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00226",
+    "content": "bà con cần cảnh giác cao độ với những lời mời đi chung xe hoặc nhận đồ ăn thức uống từ người lạ đặc biệt tại các khu vực gần biên giới",
+    "date": "25-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00227",
+    "content": "nhận định thời tiết phục vụ bà con dịp têt nguyên đán ất tỵ từ đêm 2510222024 từ ngày 27 tháng chạp đến mùng 5 tết",
+    "date": "25-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00228",
+    "content": "ngày đầu kỳ nghỉ tết ất tỵ toàn quốc xảy ra 47 vụ tai nạn giao thông làm thiệt mạng 27 người bị thương 31 người",
+    "date": "25-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00229",
+    "content": "về nhà ăn tết băng nhóm lừa đảo chiếm đoạt tài sản xuyên biên giới sa lưới",
+    "date": "25-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00230",
+    "content": "loại bỏ người bàn lùi xử lý người thiếu trách nhiệm trong dự án sân bay long thành",
+    "date": "25-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00231",
+    "content": "đại sứ thụy sỹ canada new zealand na uy hát bằng tiếng việt cùng dàn hợp xướng gió xanh ca khúc do bạn trẻ bùi công nam sáng tác để mừng năm mới ất tỵ",
+    "date": "25-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00232",
+    "content": "17h chiều qua trên cao tốc tp hồ chí minh trung lương cháu bé đã được cấp cứu kịp thời",
+    "date": "25-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00233",
+    "content": "việc uống nhiều nước ăn nhiều trái cây ăn trứng chần rồi lại tiểu tiện mồ hôi theo thông tin truyền tai nhau của một bộ phận người dân nhằm giảm nồng độ cồn trong máu sau khi uống rượu bia chỉ là biện pháp mang tính tâm lý thôi",
+    "date": "25-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00234",
+    "content": "yêu cầu giải quyết dứt điểm tình trạng ô nhiễm tại tuyến giáp ranh trên kênh ba bò khu vực tuyến suối cái suối nhum suối xuân trường suối cái hoàn thành trước 31122025",
+    "date": "25-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00235",
+    "content": "nguyên bộ trưởng y tế nguyễn quốc triệu qua đời",
+    "date": "25-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00236",
+    "content": "thanh tra kiểm tra và xử lý nghiêm các trường hợp vi phạm theo quy định của pháp luật về bảo vệ môi trường tài nguyên nước tại làng nghề phong khê cụm công nghiệp phú lâm",
+    "date": "25-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00237",
+    "content": "ngoại trưởng hoa kỳ marco rubio vui vẻ nhận lời mời và bày tỏ mong muốn sớm sang thăm việt nam nhân dịp tết cổ truyền ất tỵ năm 2025 ngoại trưởng marco rubio thay mặt lãnh đạo hoa kỳ gửi lời chúc mừng năm mới tới lãnh đạo và nhân dân việt nam",
+    "date": "25-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00238",
+    "content": "giáo viên hà nội sẽ được thưởng theo nghị định số 732024nđcp của chính phủ",
+    "date": "24-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00239",
+    "content": "phát hiện cơ sở sản xuất kinh doanh 30000 kg giá đỗ sử dụng thuốc cấm cho khởi tố ngay",
+    "date": "24-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00240",
+    "content": "trên địa bàn cả nước đã quy hoạch 1309 vị trí với quy mô khoảng 9756 ha đất làm nhà ở xã hội trong đó nhiều địa phương dành quỹ đất lớn như tphcm hà nội đồng nai long an hải phòng",
+    "date": "24-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00241",
+    "content": "vừa đóng điện thành công dự án đường dây 500kv monsoon thạnh mỹ",
+    "date": "24-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00242",
+    "content": "khẩn trương triển khai đề án tiếp tục sắp xếp tinh gọn tổ chức bộ máy công an địa phương theo mô hình công an 3 cấp bộ tỉnh xã không tổ chức công an cấp huyện",
+    "date": "24-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00243",
+    "content": "bà lê thị nhung được phân công điều hành hội đồng nhân dân tỉnh cà mau",
+    "date": "24-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00244",
+    "content": "tập trung nguồn lực tích cực cấp cứu và khẩn trương hội chẩn toàn bệnh viện bạch mai để đưa ra phương án điều trị tốt nhất cho 32 trẻ nghi ngộ độc thuốc diệt chuột",
+    "date": "24-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00245",
+    "content": "xử phạt 2 cá nhân có hành vi đăng tải thông tin có nội dung bịa đặt sai sự thật xuyên tạc xúc phạm uy tín danh dự một lãnh đạo công ty cổ phần vietjet trên mạng xã hội",
+    "date": "24-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00246",
+    "content": "thúc đẩy giao thương giữa pakistan với việt nam và asean",
+    "date": "24-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00247",
+    "content": "điện chia buồn tổng thống đầu tiên của mông cổ từ trần",
+    "date": "24-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00248",
+    "content": "tuyển chọn thực tập sinh nữ đi thực tập kỹ thuật ngành sản xuất chế tạo và chế biến thực phẩm tại nhật bản theo chương trình im japan đợt 12025",
+    "date": "24-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00249",
+    "content": "bà con chú ý giữ sức khỏe không tắm gội buổi đêm không sưởi ấm bằng than tổ ong",
+    "date": "23-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00250",
+    "content": "triệt phá băng nhóm tội phạm xuyên quốc gia giết người đánh bạc tại campuchia",
+    "date": "23-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00251",
+    "content": "cảnh báo tin giả kêu gọi từ thiện",
+    "date": "23-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00252",
+    "content": "sáp nhập trường cao đẳng nghề vĩnh phúc vào trường cao đẳng kinh tế kỹ thuật vĩnh phúc và đổi tên thành trường cao đẳng kỹ thuật công nghệ vĩnh phúc",
+    "date": "23-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00253",
+    "content": "hội nghị ban chấp hành trung ương đảng khóa xiii tập trung vào 3 nhóm vấn đề",
+    "date": "23-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00254",
+    "content": "đến nay toàn tỉnh lạng sơn đã có hơn 130 cán bộ công chức đăng ký nghỉ hưu trước tuổi trong đó có 11 đồng chí thuộc diện ban thường vụ tỉnh ủy quản lý",
+    "date": "23-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00255",
+    "content": "bắt giam ngay 3 đối tượng trong vụ đánh gây thiệt mạng cho nam shipper ở đà nẵng",
+    "date": "23-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00256",
+    "content": "giá xăng giảm",
+    "date": "23-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00257",
+    "content": "thủ tướng phạm minh chính cùng phu nhân và đoàn đại biểu cấp cao việt nam đã về tới hà nội kết thúc tốt đẹp chuyến công tác tới ba lan czech thụy sĩ",
+    "date": "23-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00258",
+    "content": "chính quyền địa phương các đô thị lớn nơi lễ hội có lượng lớn người tham gia phải tăng cường kiểm soát an toàn thực phẩm",
+    "date": "23-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00259",
+    "content": "thủ tướng phạm minh chính cùng phu nhân và đoàn đại biểu việt nam rời thụy sĩ về hà nội kết thúc tốt đẹp chuyến công tác",
+    "date": "23-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00260",
+    "content": "bộ y tế đang đề xuất quy định mới về mức đóng bảo hiểm y tế",
+    "date": "23-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00261",
+    "content": "chia sẻ với tư cách được đánh giá là nền kinh tế tăng trưởng cao nhất trong asean thủ tướng phạm minh chính nhận định kỷ nguyên thông minh đặt ra nhiều thách thức to lớn song đó là con đường tất yếu",
+    "date": "23-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00262",
+    "content": "vừa bãi bỏ 29 thông tư quyết định liên quan lĩnh vực thông tin và truyền thông",
+    "date": "23-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00263",
+    "content": "việt nam đang ở vị thế thuận lợi trong lĩnh vực khoa học công nghệ mà hiện nay trên thế giới cũng chỉ có ấn độ tương xứng",
+    "date": "23-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00264",
+    "content": "trao đổi với tổng thống ukraine volodymyr zelensky thủ tướng phạm minh chính nhấn mạnh",
+    "date": "23-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00265",
+    "content": "điện về với bà con bản nặm cứm",
+    "date": "22-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00266",
+    "content": "đừng ham rẻ mà bị lừa đảo nhé bà con",
+    "date": "22-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00267",
+    "content": "với vai trò uy tín và quan hệ của mình việt nam sẵn sàng hợp tác với liên hợp quốc sẵn sàng làm mọi việc để mang lại hoà bình ổn định cho đông nam á và myanmar",
+    "date": "22-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00268",
+    "content": "lễ dựng nêu ở đại nội huế",
+    "date": "22-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00269",
+    "content": "việt nam hướng tới gia nhập tổ chức hợp tác và phát triển kinh tế thế giới oecd",
+    "date": "22-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00270",
+    "content": "thủ tướng phạm minh chính trao bằng tiến sĩ danh dự của đại học quốc gia hà nội cho giáo sư klaus schwab nhà sáng lập kiêm chủ tịch điều hành diễn đàn kinh tế thế giới wef",
+    "date": "22-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00271",
+    "content": "hà lan quan tâm và sẽ xem xét đầu tư vào lĩnh vực chip bán dẫn tại nước ta",
+    "date": "22-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00272",
+    "content": "việt nam hoan nghênh phán quyết vừa qua của tòa phúc thẩm seoul một phán quyết phản ánh sự thật lịch sử góp phần hiện thực hóa tinh thần gác lại quá khứ hướng tới tương lai",
+    "date": "22-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00273",
+    "content": "việt nam mong muốn sớm kết thúc đàm phán fta với thụy sĩ na uy iceland liechtenstein",
+    "date": "22-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00274",
+    "content": "trả lời câu hỏi về việc việt nam đã trao đổi với chính phủ của tổng thống hoa kỳ donald trump chưa thủ tướng phạm minh chính cho biết phía việt nam đã thảo luận với phía hoa kỳ tổng bí thư tô lâm đã trao đổi trực tiếp với tổng thống trump có những nội dung có thể công bố nhưng cũng có những nội dung còn đang trong quá trình thảo luận",
+    "date": "22-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00275",
+    "content": "việt nam thuộc top 50 quốc gia có chỉ số đổi mới sáng tạo cao nhất",
+    "date": "22-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00276",
+    "content": "đồng chí hầu a lềnh giữ chức bí thư tỉnh ủy hà giang",
+    "date": "22-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00277",
+    "content": "cặp linh vật rắn kim tỵ ngân tỵ ở cổng chào đường hoa nguyễn huệ tphcm năm nay thu hút nhiều du khách",
+    "date": "22-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00278",
+    "content": "bãi bỏ 9 văn bản quy phạm pháp luật do bộ trưởng bộ công an ban hành",
+    "date": "22-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00279",
+    "content": "bà con chú ý về việc đốt vàng mã thắp hương",
+    "date": "22-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00280",
+    "content": "việt nam coi trọng việc đăng cai unctad 16 để chào đón đại biểu từ khắp năm châu",
+    "date": "22-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00281",
+    "content": "vietjet và trường bay f air ký thoả thuận đào tạo phi công",
+    "date": "22-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00282",
+    "content": "việt nam sẵn sàng chia sẻ kinh nghiệm và hỗ trợ panama trong việc sản xuất lương thực đặc biệt là trồng lúa",
+    "date": "22-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00283",
+    "content": "thủ tướng phạm minh chính gặp tổng thống ukraine",
+    "date": "22-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00284",
+    "content": "hình thành trung tâm tài chính quốc tế tphcm trong 510 năm",
+    "date": "22-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00285",
+    "content": "tổng thống thụy sĩ việt nam là đối tác quan trọng tại khu vực",
+    "date": "22-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00286",
+    "content": "thủ tướng lithuania mong muốn mở rộng hợp tác sang các lĩnh vực tiềm năng trong đó có năng lượng tái tạo khí hóa lỏng lng",
+    "date": "22-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00287",
+    "content": "phó thủ tướng thường trực chính phủ nguyễn hòa bình thăm chúc tết cán bộ chiến sĩ cục cảnh sát kinh tế",
+    "date": "21-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00288",
+    "content": "sáp nhập 2 tổng cục thuộc bộ quốc phòng",
+    "date": "21-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00289",
+    "content": "phó thủ tướng lê thành long thăm hỏi tặng quà bệnh nhân đang điều trị cán bộ y bác sĩ tại bệnh viện đa khoa tỉnh cao bằng",
+    "date": "21-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00290",
+    "content": "bắn pháo hoa tại 15 điểm ở tphcm đêm giao thừa tết nguyên đán ất tỵ",
+    "date": "21-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00291",
+    "content": "cái bẫy ngọt ngào cảnh báo tham gia đầu tư chứng khoán trái phép qua quỹ đầu tư nhằm chiếm đoạt tài sản",
+    "date": "21-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00292",
+    "content": "phiên họp lần thứ hai ban chỉ đạo trung ương về tổng kết việc thực hiện nghị quyết 18",
+    "date": "21-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00293",
+    "content": "sáng 211 tại davos thụy sĩ thủ tướng chính phủ phạm minh chính tiếp ủy viên thường vụ bộ chính trị phó thủ tướng thường trực quốc vụ viện trung quốc đinh tiết tường nhân dịp tham dự hội nghị thường niên diễn đàn kinh tế thế giới wef lần thứ 55",
+    "date": "21-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00294",
+    "content": "việt nam nằm trong danh sách ưu tiên ký kết fta của hội đồng hợp tác vùng vịnh gcctổng thư ký gcc khẳng định sẽ sớm sang thăm nước ta",
+    "date": "21-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00295",
+    "content": "thủ tướng phạm minh chính dẫn đầu đoàn đại biểu cấp cao việt nam tham dự đối thoại chiến lược quốc gia việt nam trong khuôn khổ hội nghị thường niên wef 55đây là một trong số ít các hoạt động đối thoại quốc gia được tổ chức tại hội nghị wef davos năm nay và là phiên đối thoại chiến lược quốc gia lần thứ 4 mà wef tổ chức với việt nam",
+    "date": "21-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00296",
+    "content": "việt nam dự kiến hoàn thành tuyến đường sắt tốc độ cao bắc nam trong khoảng 10 năm",
+    "date": "21-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00297",
+    "content": "thăm và tặng quà các thầy cô và em nhỏ tại cơ sở bảo trợ xã hội tổng hợp tỉnh điện biên phó thủ tướng bùi thanh sơn vui mừng khi các cháu có cuộc sống ổn định dưới mái chung là cơ sở bảo trợ xã hội tổng hợp",
+    "date": "21-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00298",
+    "content": "trân trọng mời tân ngoại trưởng hoa kỳ marco rubio thăm việt nam trong năm nay",
+    "date": "21-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00299",
+    "content": "giai đoạn chính tết từ 27311 28 tháng chạp đến mùng 3 tết miền bắc chịu tác động của gió mùa đông bắc khiến trời rét vùng núi có rét đậm phía đông bắc bộ có ngày có mưa nhỏ mưa phùn",
+    "date": "21-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00300",
+    "content": "cảnh báo thủ đoạn cắt ghép hình ảnh nhạy cảm nhắn tin gọi điện đe dọa yêu cầu chuyển tiền nhằm cưỡng đoạt tài sản",
+    "date": "21-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00301",
+    "content": "thu tuc câp the căn cươc cho người việt nam định cư ở nước ngoài như thế nào",
+    "date": "21-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00302",
+    "content": "lãnh đạo đảng nhà nước chính phủ gửi thư chúc mừng tổng thống thứ 47 của hợp chúng quốc hoa kỳ donald trump",
+    "date": "21-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00303",
+    "content": "cần phải nghiên cứu về vùng môi trường có tác động đến chất lượng không khí hà nội",
+    "date": "21-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00304",
+    "content": "thủ tướng phạm minh chính đã tới thụy sĩ tham dự hội nghị wef davos 55",
+    "date": "21-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00305",
+    "content": "chân trời hợp tác mới việt namhoa kỳ từ chuyến bay đầu tiên của vietjet",
+    "date": "21-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00306",
+    "content": "giữa việt nam và czech chỉ có điểm chung không có điểm khác biệt đó chính là nền tảng để việt nam và czech quyết định nâng cấp quan hệ lên đối tác chiến lược",
+    "date": "21-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00307",
+    "content": "tổng thống czech sẽ thúc đẩy phê chuẩn hiệp định evipa và ủng hộ gỡ bỏ thẻ vàng iuu với việt nam",
+    "date": "21-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00308",
+    "content": "ba môn trong kỳ thi tuyển sinh vào lớp 10 thpt năm học 20252026 tại thành phố huế là ngoại ngữ toán ngữ văn",
+    "date": "20-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00309",
+    "content": "chủ tịch quốc hội trần thanh mẫn thăm tặng quà tết đồng bào chiến sĩ thành phố cần thơ",
+    "date": "20-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00310",
+    "content": "czech có thể cung ứng các loại công nghệ mới năng lượng mới cho phía việt nam kể cả điện hạt nhân",
+    "date": "20-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00311",
+    "content": "chủ tịch nước lương cường và đoàn công tác trung ương thăm động viên và chúc tết bộ đội đặc công",
+    "date": "20-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00312",
+    "content": "thủ tướng petr fiala tại châu á czech có quan hệ sâu sắc và rộng mở nhất với việt nam",
+    "date": "20-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00313",
+    "content": "thủ tướng đặt vòng hoa tại đài tưởng niệm quốc gia của cộng hòa czech",
+    "date": "20-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00314",
+    "content": "việt nam trở thành nước đông nam á đầu tiên là đối tác chiến lược của czech và czech trở thành nước trung đông âu đầu tiên trong eu là đối tác chiến lược với việt nam",
+    "date": "20-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00315",
+    "content": "lễ đón trọng thể thủ tướng phạm minh chính thăm chính thức cộng hòa czech",
+    "date": "20-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00316",
+    "content": "nắng nóng có khả năng bắt đầu xuất hiện tại nam bộ và tây nguyên vào khoảng nửa đầu tháng 3",
+    "date": "20-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00317",
+    "content": "trực tiếp lễ trao giải báo chí toàn quốc về xây dựng đảng giải búa liềm vàng lần thứ ix",
+    "date": "20-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00318",
+    "content": "việt nam đang thúc đẩy tuyến đường sắt các đường bay kết nối với czech",
+    "date": "20-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00319",
+    "content": "thủ tướng chứng kiến ký kết hợp tác giữa clb bóng đá hàng đầu của czech và công an hà nội",
+    "date": "20-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00320",
+    "content": "hoa kỳ và việt nam vừa đạt thỏa thuận trong giải quyết tranh chấp về thuế chống bán phá giá cá tra basa",
+    "date": "20-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00321",
+    "content": "bà con nam bộ chú ý",
+    "date": "20-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00322",
+    "content": "chú trọng tháo gỡ các rào cản về thể chế để phát triển khoa học công nghệ",
+    "date": "20-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00323",
+    "content": "bộ chính trị ban bí thư gặp mặt các đồng chí lãnh đạo nguyên lãnh đạo đảng nhà nước mặt trận tổ quốc việt nam các đồng chí ủy viên trung ương đảng",
+    "date": "20-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00324",
+    "content": "một đợt gió mùa đông bắc khá mạnh đổ bộ xuống miền bắc từ 27 tết",
+    "date": "20-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00325",
+    "content": "tin vui đặc biệt với kiều bào tại czech",
+    "date": "20-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00326",
+    "content": "thủ tướng phạm minh chính và phu nhân thăm gia đình việt kiều tiêu biểu tại czech",
+    "date": "20-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00327",
+    "content": "thủ tướng phạm minh chính và phu nhân thăm trung tâm tiếng việt praha được thành lập cách đây 20 năm",
+    "date": "20-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00328",
+    "content": "khi đi ngoài đường ở việt nam bạn sẽ không thấy nhiều biển hiệu lớn của các công ty của thụy sĩ nhưng trong các nhà máy ở việt nam có rất nhiều máy móc đến từ thụy sĩ",
+    "date": "20-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00329",
+    "content": "tổng bí thư tô lâm tiếp đoàn kiều bào tiêu biểu tham dự chương trình xuân quê hương 2025",
+    "date": "19-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00330",
+    "content": "chủ tịch nước và phu nhân cùng kiều bào thực hiện nghi thức thả cá chép tại ao cá bác hồ",
+    "date": "19-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00331",
+    "content": "hoan nghênh tập đoàn ppf mở rộng hoạt động tại việt nam",
+    "date": "19-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00332",
+    "content": "thủ tướng làm việc với mạng lưới đổi mới sáng tạo việt nam tại châu âu",
+    "date": "19-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00333",
+    "content": "hoan nghênh và đề nghị tập đoàn seven global investments sở hữu câu lạc bộ sk slavia praha đội bóng hàng đầu của czech đẩy mạnh các hoạt động hợp tác giao lưu bóng đá với việt nam",
+    "date": "19-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00334",
+    "content": "thủ tướng phạm minh chính và phu nhân cùng đoàn đại biểu cấp cao việt nam thăm bảo tàng quốc gia praha một trong những biểu tượng văn hóa và lịch sử quan trọng nhất của czech",
+    "date": "19-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00335",
+    "content": "dự án xây dựng nhà máy ô tô sản xuất xe skoda đầu tiên tại đông nam á đặt tại hạ long trị giá 500 triệu usd đang được triển khai dự kiến hoàn thành quý i2025",
+    "date": "19-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00336",
+    "content": "chủ tịch quốc hội tiếp đoàn kiều bào tiêu biểu dự xuân quê hương 2025",
+    "date": "19-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00337",
+    "content": "công nhận thành phố hòa bình là đô thị loại ii",
+    "date": "19-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00338",
+    "content": "có thể đăng ký xe ngoài giờ làm việc ngày nghỉ ngày lễ từ năm nay",
+    "date": "19-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00339",
+    "content": "thủ tướng cho biết sẽ đề xuất sửa đổi luật đầu tư mong các doanh nhân kiều bào tích cực góp ý qua các kênh khác nhau trong đó có kênh qua cổng thông tin điện tử chính phủ",
+    "date": "19-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00340",
+    "content": "công nhận bảo vật quốc gia ba chiếc xe ô tô được sử dụng phục vụ chủ tịch hồ chí minh niên đại từ 19541969",
+    "date": "19-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00341",
+    "content": "ngày càng nhiều sinh viên việt nam sang học tập tại czech với tiêu chuẩn giáo dục châu âu nhưng thời gian học đại học chỉ 3 năm và chi phí phải chăng",
+    "date": "19-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00342",
+    "content": "hiểu đúng về cảnh báo lừa đảo nhập sai mật khẩu lan truyền những ngày qua",
+    "date": "19-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00343",
+    "content": "nghiên cứu xây dựng trung tâm văn hoá việt nam tại czech",
+    "date": "19-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00344",
+    "content": "người dân có thể tự theo dõi số điểm của bằng lái xe qua ứng dụng vneid",
+    "date": "19-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00345",
+    "content": "vừa có cụ bà bị lừa hơn 2 tỷ đồng khi nghe điện thoại giả danh trưởng phòng cảnh sát hình sự",
+    "date": "18-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00346",
+    "content": "hoa nhac anh sang va man trinh diên cua 2025 drone trên hô tây hà nội",
+    "date": "18-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00347",
+    "content": "đã có thể xuất trình căn cước điện tử để làm thủ tục chứng thực hợp đồng giao dịch",
+    "date": "18-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00348",
+    "content": "tổng bí thư công an xã cần gắn bó là điểm tựa vững chắc của nhân dân",
+    "date": "18-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00349",
+    "content": "chủ tịch đảng cộng sản czechmorava sẵn sàng hỗ trợ việt nam trong mọi khả năng có thể trong đó có việc thúc đẩy để sớm hoàn thành phê chuẩn evipa và gỡ thẻ vàng iuu đối với thuỷ sản việt nam",
+    "date": "18-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00350",
+    "content": "thủ tướng phạm minh chính cùng phu nhân lê thị bích trân và đoàn đại biểu cấp cao việt nam đã tới sân bay václav havel thủ đô praha bắt đầu thăm chính thức cộng hòa czech",
+    "date": "18-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00351",
+    "content": "ủy ban nhân dân cấp xã giờ đây đã được chứng thực các văn bản do nước ngoài cấp",
+    "date": "18-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00352",
+    "content": "thủ tướng phạm minh chính và phu nhân cùng đoàn đại biểu cấp cao việt nam rời warsaw kết thúc tốt đẹp chuyến thăm ba lan lên đường thăm chính thức cộng hòa czech",
+    "date": "18-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00353",
+    "content": "hướng tới nâng cấp quan hệ việt nam ba lan lên tầm chiến lược trong tương lai gần",
+    "date": "18-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00354",
+    "content": "asg là trung tâm thương mại đầu tiên của cộng đồng người việt một trong những trung tâm lớn nhất do người việt nam làm chủ tại ba lan phần lớn các gian hàng tại đây cũng do người việt sở hữu",
+    "date": "18-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00355",
+    "content": "dự kiến sáp nhập bảo hiểm xã hội bộ quốc phòng và cục chính sách",
+    "date": "18-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00356",
+    "content": "khởi tố chủ tịch hđqt kiêm tgđ công ty cổ phần tập đoàn thiên minh đức cùng 6 bị can để làm rõ hành vi chiếm đoạt quỹ bình ổn giá xăng dầu với số lượng lớn",
+    "date": "18-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00357",
+    "content": "lãnh đạo việt nam trung quốc trao đổi điện mừng 75 năm ngày thiết lập quan hệ ngoại giao",
+    "date": "18-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00358",
+    "content": "bắt cựu hiệu trưởng trường đại học sư phạm huế lê anh phương đối tượng này cùng đồng phạm đã chiếm đoạt tài sản của sinh viên",
+    "date": "18-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00359",
+    "content": "hà nội hiện vẫn chưa chốt môn thi thứ ba vào lớp 10 năm học 20252026",
+    "date": "18-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00360",
+    "content": "viện nghiên cứu quốc gia về an ninh mạng của ba lan nask được thành lập vào năm 1992 tại đại học warsaw với tư cách là nhóm điều phối phát triển mạng máy tính học thuật nhóm này đóng một vai trò quan trọng trong việc kết nối ba lan với mạng internet",
+    "date": "18-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00361",
+    "content": "czech kỳ vọng nâng cấp quan hệ với việt nam lên đối tác chiến lược",
+    "date": "18-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00362",
+    "content": "thủ tướng phạm minh chính và phu nhân chung vui đón tết sớm với cộng đồng người việt nam tại ba lan một kỷ niệm khó quên trong đời như phát biểu của thủ tướng",
+    "date": "18-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00363",
+    "content": "việt nam ủng hộ ba lan tham gia hiệp ước hữu nghị và hợp tác tac với asean",
+    "date": "18-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00364",
+    "content": "thượng viện ba lan ủng hộ việc thông qua hiệp định bảo hộ đầu tư eu việt nam",
+    "date": "18-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00365",
+    "content": "nhóm nghị sĩ ba lan việt nam có số lượng đông nhất trong quốc hội và có đại diện của tất cả các đảng phái tại ba lan",
+    "date": "17-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00366",
+    "content": "thủ tướng chính phủ phạm minh chính hội kiến chủ tịch hạ viện ba lan szymon holownia",
+    "date": "17-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00367",
+    "content": "tuyển chọn thực tập sinh nam đi thực tập kỹ thuật tại nhật bản theo chương trình im japan đợt 12025",
+    "date": "17-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00368",
+    "content": "cơ sở 2 trường đại học luật hà nội tại thành phố từ sơn tỉnh bắc ninh dự kiến hoàn thành trong 2025",
+    "date": "17-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00369",
+    "content": "dự kiến mức trợ cấp hưu trí xã hội hằng tháng là 500000 đồng",
+    "date": "17-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00370",
+    "content": "vừa bắt đối tượng lừa bán nhiều phụ nữ sang myanmar với mục đích cưỡng ép làm mại dâm",
+    "date": "17-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00371",
+    "content": "tập trung kiểm tra việc kinh doanh mỹ phẩm trên tiktok zalo facebook youtube",
+    "date": "17-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00372",
+    "content": "thủ tướng bày tỏ rất vui mừng được đến thăm và phát biểu tại đại học tổng hợp warsaw đại học danh tiếng nhất của ba lan một trong những trường đại học lâu đời và uy tín hàng đầu của châu âu",
+    "date": "17-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00373",
+    "content": "việt nam hoan nghênh việc hoa kỳ đưa cuba ra khỏi danh sách các quốc gia tài trợ khủng bố",
+    "date": "17-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00374",
+    "content": "tiếp nhận làm rõ hơn 400 người việt nam từ tìm kiếm việc nhẹ lương cao ở nước ngoài bị ép trở thành nhân viên trong đường dây lừa đảo xuyên quốc gia",
+    "date": "17-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00375",
+    "content": "tập đoàn dược phẩm công nghệ sinh học hàng đầu ba lan muốn mở rộng đầu tư tại việt nam",
+    "date": "17-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00376",
+    "content": "đường vành đai đầm sen tphcm hoàn thành cùng rạch đầm sen vừa cải tạo giảm ùn tắc chia lửa cho đường lạc long quân chỉnh trang đô thị quận 11",
+    "date": "17-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00377",
+    "content": "khuyến khích tập đoàn hàng không quốc gia ba lan mở lại đường bay tới việt nam",
+    "date": "17-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00378",
+    "content": "đã có hướng dẫn về cách tính hưởng chính sách",
+    "date": "17-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00379",
+    "content": "rà soát các loại chứng chỉ và kiến nghị bãi bỏ chứng chỉ không cần thiết thu gọn các loại chứng chỉ có sự trùng lặp về nội dung để tránh lãng phí chi phí của xã hội",
+    "date": "17-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00380",
+    "content": "tối 161 tại thủ đô warsaw thủ tướng phạm minh chính cùng phu nhân lê thị bích trân và đoàn đại biểu việt nam đã gặp gỡ cộng đồng người việt nam tại ba lan",
+    "date": "17-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00381",
+    "content": "dự kiến lắp 1900 đèn tín hiệu giao thông và đèn rẽ phải ở tphcm",
+    "date": "17-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00382",
+    "content": "tổng thống ba lan việt nam là đối tác quan trọng nhất ở đông nam á",
+    "date": "17-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00383",
+    "content": "thúc đẩy việc giảng dạy tiếng việt như ngoại ngữ trong trường học ba lan",
+    "date": "17-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00384",
+    "content": "năm 2027 sẽ là lần thứ 3 việt nam giữ cương vị chủ tịch diễn đàn kinh tế châu á thái bình dương apec và địa điểm được trung ương xác định tổ chức là tại thành phố phú quốc",
+    "date": "16-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00385",
+    "content": "mong muốn phía ba lan nghiên cứu xác định cộng đồng người việt tại ba lan là dân tộc thiểu số của nước này",
+    "date": "16-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00386",
+    "content": "vietjet nằm trong nhóm các hãng bay an toàn nhất toàn cầu 2025 theo airlineratings",
+    "date": "16-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00387",
+    "content": "các công trình biểu tượng của ba lan vẫn còn phát huy rất tốt tại việt nam như bệnh viện hữu nghị việt nam ba lan trường thpt việt nam ba lan",
+    "date": "16-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00388",
+    "content": "nếu như trước đây khi có người mời uống vài chén rượu tôi còn tâm lý cả nể uống một ít cũng không sao nhưng bây giờ tôi từ chối thẳng và đưa ra lý do phải lái xe anh long u40 nói",
+    "date": "16-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00389",
+    "content": "người dân hải phòng ăn sóng nói gió hết sức năng động sáng tạo dám nghĩ dám làm quyết tâm quyết liệt",
+    "date": "16-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00390",
+    "content": "tuyên phạt 12 năm tù với cựu chủ tịch nhà xuất bản giáo dục việt nam nguyễn đức thái",
+    "date": "16-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00391",
+    "content": "bà con ở hà nội chú ý ngày mai và ngày kia 17181 có một số tuyến phố đường bị tạm cấm danh sách xin xem phần bình luận dưới đây",
+    "date": "16-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00392",
+    "content": "thủ tướng donald tusk chủ trì lễ đón thủ tướng phạm minh chính thăm chính thức ba lan",
+    "date": "16-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00393",
+    "content": "không xử phạt vi phạm vượt đèn đỏ khi nhường đường cho xe cứu thương và các xe ưu tiên",
+    "date": "16-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00394",
+    "content": "thủ tướng phạm minh chính cùng phu nhân và đoàn đại biểu việt nam tới đặt vòng hoa tại khu tưởng niệm các liệt sĩ vô danh ba lan",
+    "date": "16-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00395",
+    "content": "giảm ít nhất 50 đơn vị sự nghiệp và 20 phòng chuyên môn cấp huyện tại cần thơ",
+    "date": "16-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00396",
+    "content": "lễ đón thủ tướng phạm minh chính thăm chính thức ba lan",
+    "date": "16-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00397",
+    "content": "kiên trì tuyên truyền nhân dân thực hiện các quy tắc giao thông an toàn đã uống rượu bia không lái xe không sư dung điên thoai khi lai xe thắt dây an toàn khi ngồi trên xe ô tô",
+    "date": "16-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00398",
+    "content": "công bố quyết định mở rộng và khai trương khu công nghệ thông tin tập trung công viên phần mềm đà nẵng số 2",
+    "date": "16-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00399",
+    "content": "khuyến khích các doanh nghiệp thương mại điện tử triển khai các chương trình khuyến mại giảm giá đặc biệt trong dịp tết",
+    "date": "16-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00400",
+    "content": "thủ tướng phạm minh chính cùng phu nhân lê thị bích trân và đoàn đại biểu việt nam đã tới sân bay frédéric chopin thủ đô warsaw bắt đầu thăm ba lan",
+    "date": "16-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00401",
+    "content": "thành lập thành phố phú mỹ tỉnh bà rịa vũng tàu từ 132025",
+    "date": "16-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00402",
+    "content": "chủ tịch nước lương cường bày tỏ vui mừng và đánh giá cao ý nghĩa chuyến thăm việt nam lần đầu tiên của thủ tướng chính phủ nga mikhail mishustin",
+    "date": "15-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00403",
+    "content": "kiểm soát chặt chẽ việc cấp chứng chỉ hành nghề môi giới bất động sản hoạt động của sàn giao dịch bất động sản doanh nghiệp kinh doanh dịch vụ môi giới bất động sản",
+    "date": "15-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00404",
+    "content": "tphcm người dân chấp hành tốt luật giao thông tín hiệu đáng mừng",
+    "date": "15-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00405",
+    "content": "nghiên cứu tăng mức chế tài xử phạt với vi phạm an toàn thực phẩm",
+    "date": "15-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00406",
+    "content": "vừa triệt phá được nhóm độ súng đồ chơi nguy hiểm thành vũ khí quân dụng để bán",
+    "date": "15-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00407",
+    "content": "nga sẵn sàng tham gia xây dựng ngành công nghiệp điện hạt nhân quốc gia của việt nam",
+    "date": "15-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00408",
+    "content": "đối tượng đặng hoàng hà sn 1973 trú tại bắc linh đàm phường hoàng liệt quận hoàng mai hà nội đã sử dụng tài khoản facebook cá nhân để đăng tải các hình ảnh video có nội dung thông tin sai lệch liên quan đến nghị định 168 nhằm kích động biểu tình gây bất ổn xã hội",
+    "date": "15-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00409",
+    "content": "kết bạn với người lạ nhận nhiệm vụ online để tăng thu nhập ông h ở bình phước bị mất 3 tỷ đồng",
+    "date": "15-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00410",
+    "content": "mời xem toàn văn thông tư tại diễn đàn xây dựng chính sách pháp luật",
+    "date": "15-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00411",
+    "content": "miễn thị thực cho công dân ba lan séc thụy sỹ vào việt nam du lịch từ 132025",
+    "date": "15-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00412",
+    "content": "tổng bí thư tô lâm điện đàm với tổng bí thư chủ tịch nước trung quốc tập cận bình",
+    "date": "15-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00413",
+    "content": "đây là thời điểm chín muồi để các doanh nghiệp công nghệ số việt nam đoàn kết chung sức xây dựng một tương lai vững bền cho ngành công nghệ số nước nhà",
+    "date": "15-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00414",
+    "content": "thủ tướng phạm minh chính và phu nhân lên đường thăm chính thức ba lan czech và tham dự wef tại thụy sĩ",
+    "date": "15-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00415",
+    "content": "nếu khoán 10 là bước đột phá lịch sử giúp việt nam thoát khỏi đói nghèo và khủng hoảng thì nghị quyết 57 là đột phá mang tính thời đại định hình tương lai đất nước",
+    "date": "15-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00416",
+    "content": "thủ tướng phạm minh chính và thủ tướng mishustin cùng thưởng thức âm nhạc việt nga",
+    "date": "15-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00417",
+    "content": "tiếp tục khẩn trương nghiên cứu chính sách giảm thuế phí lệ phí cho người dân doanh nghiệp trình cấp có thẩm quyền trong tháng 22025",
+    "date": "15-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00418",
+    "content": "chính phủ nga luôn sẵn sàng tạo điều kiện thuận lợi để hỗ trợ các doanh nghiệp việt nam mở rộng hoạt động và nắm bắt cơ hội tại liên bang nga",
+    "date": "15-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00419",
+    "content": "xây dựng xong nhà máy điện hạt nhân ninh thuận trong 5 năm",
+    "date": "15-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00420",
+    "content": "tp cần thơ nhận huân chương lao động hạng ii của chủ tịch nước lào",
+    "date": "15-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00421",
+    "content": "cán bộ công chức viên chức người lao động nghỉ hưu sớm sẽ vừa được hưởng lương hưu vừa được nhận thêm một khoản hỗ trợ",
+    "date": "15-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00422",
+    "content": "mời xem toàn văn thông tư tại diễn đàn xây dựng chính sách pháp luật",
+    "date": "15-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00423",
+    "content": "2 tuần qua tình hình tai nạn giao thông có chuyển biến rõ rệt giảm cả 3 tiêu chí so với cùng kỳ và thời gian trước liền kề",
+    "date": "15-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00424",
+    "content": "tri ân 4 người giúp hồi sinh cuộc đời cho 15 bệnh nhân mắc bệnh hiểm nghèo",
+    "date": "14-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00425",
+    "content": "các thông tin lan truyền trong hôm nay về ban lãnh đạo novaland là thông tin bịa đặt hoàn toàn sai sự thật",
+    "date": "14-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00426",
+    "content": "mời xem toàn văn thông tư tại diễn đàn xây dựng chính sách pháp luật",
+    "date": "14-01-2025",
+    "event_type": "Policy-Announcement"
+  },
+  {
+    "doc_id": "train-00427",
+    "content": "được tin về các vụ cháy rừng lớn diễn ra tại khu vực los angeles bang california hoa kỳ từ ngày 712025 khiến nhiều người thiệt mạng phá hủy nhiều nhà cửa cơ sở hạ tầng hôm nay phó thủ tướng bộ trưởng ngoại giao bùi thanh sơn đã gửi điện chia buồn đến ngoại trưởng hợp chúng quốc hoa kỳ antony blinken và thống đốc bang california gavin newsom",
+    "date": "14-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00428",
+    "content": "người dân trong đó có bạn minh thu cùng lực lượng công an tp hải phòng vừa tìm thấy cháu bé 4 tuổi bị người phụ nữ vào tận trường học đón đi chiều 131",
+    "date": "14-01-2025",
+    "event_type": "Emergency-Event"
+  },
+  {
+    "doc_id": "train-00429",
+    "content": "tổng bí thư tô lâm tiếp thủ tướng liên bang nga mikhail mishustin",
+    "date": "14-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00430",
+    "content": "quốc hội việt nam sẵn sàng đón chủ tịch duma quốc gia quốc hội liên bang nga thăm chính thức việt nam và đồng chủ trì phiên họp lần thứ tư ủy ban hợp tác liên nghị viện",
+    "date": "14-01-2025",
+    "event_type": "Leader-Activity"
+  },
+  {
+    "doc_id": "train-00431",
+    "content": "thủ tướng nga mikhail vladimirovich mishustin đặt vòng hoa và vào lăng viếng chủ tịch hồ chí minh",
+    "date": "14-01-2025",
+    "event_type": "Leader-Activity"
+  }
+]
