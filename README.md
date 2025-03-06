@@ -97,7 +97,7 @@ Access the web interface at http://localhost:7860 or through the public link pro
 | Event Type | CRF | BiLSTM-CRF | PhoBERT |
 |------------|-----|------------|---------|
 | Leader-Activity | 0.24 | 0.24 | 0.38 |
-| Policy-Announcement | 0.22 | 0.24 | 0.39 |
+| Policy-Announcement | 0.22 | 0.22 | 0.39 |
 | Emergency-Event | 0.21 | 0.19 | 0.27 |
 
 ## Visualization
